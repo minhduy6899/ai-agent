@@ -5,6 +5,7 @@ import os
 import requests
 from pypdf import PdfReader
 import gradio as gr
+import os
 
 
 load_dotenv(override=True)
